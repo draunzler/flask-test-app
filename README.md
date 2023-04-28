@@ -1,5 +1,8 @@
 # flask-test-app
 
+###The app simply takes the user's name as input, then shows a welcome message 
+and then redirects to the home page of the main website.
+
 Download the code and run it on any IDE.
 
 You CANNOT just open a live server using the `index.html` as
